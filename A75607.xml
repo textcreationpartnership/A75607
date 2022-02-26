@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The arraignment, confession, and condemnation of Alexander Knightley for the horrid and execrable conspiracy to assassinate His sacred Majesty, K. William, in order to a French invasion of this kingdom: at the Kings Bench Bar, Westminster, on the 30th of April, and the 20th and 25th of May.</title>
+            <author>Knightley, Alexander, d. 1696.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75607</idno>
+            <idno type="STC">Wing A3748A</idno>
+            <idno type="STC">ESTC R210494</idno>
+            <idno type="EEBO-CITATION">99899673</idno>
+            <idno type="PROQUEST">99899673</idno>
+            <idno type="VID">132379</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75607)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132379)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2416:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The arraignment, confession, and condemnation of Alexander Knightley for the horrid and execrable conspiracy to assassinate His sacred Majesty, K. William, in order to a French invasion of this kingdom: at the Kings Bench Bar, Westminster, on the 30th of April, and the 20th and 25th of May.</title>
+                  <author>Knightley, Alexander, d. 1696.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Samuel Heyrick at Greys-Inn-Gate in Holbourn, and Isaac Cleave at the Star, next to Sergeants-Inn in Chancery-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCVI. [1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials (Treason) --  England --  London --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132379:1"/>
+            <pb facs="tcp:132379:1" rendition="simple:additions"/>
+            <p>THE <hi>Arraignment, Confeſſion,</hi> AND CONDEMNATION OF Alexander Knightley; FOR THE Horrid and Execrable Conſpiracy TO Aſſaſſinate His Sacred Majeſty, K. <hi>WILLIAM,</hi> in order to a <hi>French</hi> Invaſion of this Kingdom: AT THE Kings Bench Bar, Weſtminſter ON THE 30th of <hi>April,</hi> and the 20th and 25th of <hi>May.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Heyrick</hi> at <hi>Greys-Inn-Gate</hi> in <hi>Holbourn,</hi> and <hi>Iſaac Cleave</hi> at the <hi>Star,</hi> next to <hi>Sergeants-Inn</hi> in <hi>Chancery<g ref="char:EOLhyphen"/>lane.</hi> MDCXCVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="trial_proceedings">
+            <pb facs="tcp:132379:2"/>
+            <pb n="1" facs="tcp:132379:2"/>
+            <div n="30 April 1696" type="day">
+               <head>De Termino Paſche Anno Regni Regis <hi>Gulielmi</hi> Ter<g ref="char:EOLhyphen"/>tii Octavo, <hi>In Banco Regis.</hi>
+               </head>
+               <opener>
+                  <dateline>
+                     <date>Die Jovis Triceſimo <hi>Aprilis,</hi> Anno Domini <hi>1696.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>THIS day the Keeper of <hi>Newgate</hi> brought to the Bar of the Court of <hi>Kings Bench, Alexander Knightley,</hi> by virtue of a writ of <hi>Habeas Corpus,</hi> iſſuing out of that Court for that purpoſe, to be Arraigned upon an Indictment of High Treaſon found againſt him at the Seſſions of <hi>Oyer</hi> and <hi>Terminer,</hi> holden for the County of <hi>Middleſex;</hi> which Indictment by Writ of <hi>Certiorari</hi> was removed into the <hi>Kings Bench.</hi> The Return of the <hi>Habeas Corpus</hi> was delivered, and then the Priſoner was Arraigned thus:</p>
+               <sp>
+                  <speaker>Clerk of Arraignment.</speaker>
+                  <p>
+                     <hi>Alexander Knightley</hi> hold up thy hand <stage>(which he did)</stage>. Thou ſtandeſt Indicted by the name of <hi>Alexander Knightley,</hi> late of the Pariſh of St. <hi>Paul Covent-Garden</hi> in the County of <hi>Middleſex,</hi> Gent. for that you not having the fear of God in your heart, nor weighing the duty of your Allegiance, but being moved and ſeduced by the inſtigation of the Devil, as a falſe Traytor againſt the moſt Serene, moſt Illuſtrious, and moſt Excellent Prince, our Sovereign Lord <hi>William</hi> the Third, by the Grace of God of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> King, De<g ref="char:EOLhyphen"/>fender of the Faith, <hi>&amp;c.</hi> your ſupreme, true, rightful, lawful, and undoubted Sovereign Lord, the cordial Love and true and due Obedience, Fidelity, and Allegiance, which every Subject of our ſaid Lord the King that now is, towards him our ſaid Lord the King ſhould bear, and of right ought to bear, withdrawing and utterly to extinguiſh, intending and contriving, and with all your force purpoſing and deſigning the Government of this Kingdom of <hi>England,</hi> under him our ſaid Lord the King that now is, of right duly, happily, and very well-eſtabliſh'd, altogether to ſubvert, change, and alter, as alſo the ſame our Lord the King to death, and final deſtruction to put and bring, and his faithful Subjects, and the Freemen of this Kingdom of <hi>England,</hi> into intolerable and moſt miſerable ſlavery to <hi>Lewis</hi> the <hi>French</hi> King to ſubdue and inthral, the Tenth day of <hi>February,</hi> in the ſeventh year of the Reign of our ſaid Sovereign Lord the King that now is, and divers other days and times, as well before as after, at the Pariſh of <hi>St. Paul Covent-Garden,</hi> aforeſaid, in the County aforeſaid, falſly, maliciouſly, deviliſhly, and traiterouſly you did compaſs, imagine, and contrive, purpoſe, deſign, and intend, our ſaid Sovereign Lord the King that now is, to ſlay, kill, and murther, and a miſerable ſlaughter among the faithful Subjects of our ſaid Lord the King, throughout this whole Kingdom of <hi>England</hi> to make and cauſe; and your ſaid moſt wick<g ref="char:EOLhyphen"/>ed, moſt impious, and deviliſh treaſons, and traiterous compaſſings, contrivances and purpoſes aforeſaid, to fulfil, perfect, and bring to effect, you the ſaid <hi>Alexander Knightley</hi> afterwards, to wit, the ſame tenth day of <hi>February,</hi> in the year aboveſaid, at the Pariſh aforeſaid, in the County afore<g ref="char:EOLhyphen"/>ſaid, and divers other days and times, as well before as after, there and elſewhere in the ſame County, falſly, maliciouſly, adviſedly, ſecretly,
+<pb n="2" facs="tcp:132379:3"/>traiterouſly, and with force and arms, with very many other Traytors to the Jurors unknown, did meet, propoſe, treat, conſult, conſent, and agree, him our ſaid Lord the King that now is, by lying in wait and de<g ref="char:EOLhyphen"/>ceit, to aſſaſſinate, kill, and murther, and that execrable, horrid, and deteſtable Aſſaſſination and killing, the ſooner to execute and perpetrate, afterwards, to wit, the ſame day and year, and divers other days and times at the Pariſh aforeſaid, in the County aforeſaid, traiterouſly you did treat, propoſe, and conſult with thoſe. Traytors, of the ways, manner, and means, and the time and place, where, when, how, and in what manner, our ſaid Sovereign Lord the King, ſo by lying in wait might be ſlain and killed, and that you did conſent, agree, and aſſent with the ſame Traytors, that forty Men on Horſeback, or thereabouts, of whom you the ſaid <hi>Alexander Knightley</hi> were to be one, with Guns, Muskets, and Piſtols, charg'd with Gunpowder and Leaden Bullets, and with Swords, Rapiers, and other Arms, armed, ſhould lye in wait and be in ambuſh, the ſame our Lord the King in his Coach being when he ſhould go abroad to attack, and that a certain and competent number of thoſe Men ſo arm'd, upon the Guards of our ſaid Lord the King him then at<g ref="char:EOLhyphen"/>tending and being with him ſhould ſet upon, and ſhould fight with them and ſubdue 'em, whilſt others of the ſame Men ſo armed, him our ſaid Lord the King ſhould aſſaſſinate, kill, ſlay, and murther; and you the ſaid <hi>Alexander Knightley,</hi> your treaſons and all your traiterous intentions, de<g ref="char:EOLhyphen"/>ſigns, and contrivances aforeſaid, to execute, perform, fulfill, and bring to effect, afterwards, to wit, the aforeſaid tenth day of <hi>February,</hi> in the ſeventh year aboveſaid, at the Pariſh aforeſaid, in the County aforeſaid, divers Horſes, and very many Arms, Guns, Muskets, Rapiers, and Swords, and other Weapons, Ammunition, and Warlike things, and Military inſtruments, falſly, maliciouſly, ſecretly, and traiterouſly, you did obtain, buy, gather together, and procure, and to be bought, ob<g ref="char:EOLhyphen"/>tain'd, gathered together, and procured, did cauſe with that intent to uſe, employ, and beſtow them in and about the deteſtable, horrid, and exe<g ref="char:EOLhyphen"/>crable aſſaſſination, killing, and murther, of our ſaid Lord the King that now is, as aforeſaid, and the ſame premiſes, the more ſafely, and ſurely to execute, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o, and perform, you the ſaid <hi>Alexander Knightley,</hi> with one <hi>Edward King</hi> late for High-treaſon, in contriving and conſpiring the death of our ſaid Lord the King, that now is, duly convicted and attainted, by the conſent and aſſent of divers of the Traitors and Conſpirators aforeſaid, the ſaid tenth day of <hi>February</hi> in the ſeventh year aboveſaid, traiterouſly did go and come to the place propos'd, where ſuch intended aſſaſſination, killing, and murther of our ſaid Lord the King, by lying in wait ſhould be done, performed, and committed, to view, ſearch, and obſerve, the conveniency and fitneſs of the ſame place for ſuch lying in wait, aſſaſſina<g ref="char:EOLhyphen"/>tion, and killing, there to be made, performed, and committed, and that place ſo being ſeen, and obſerved, afterwards, to wit, the ſame Day and Year, your Obſervations thereof to ſome of the ſaid Traytors and Conſpi<g ref="char:EOLhyphen"/>rators, you did relate and impart, to wit, at the Pariſh aforeſaid, in the County aforeſaid, againſt the Duty of your Allegiance, and againſt the Peace of our ſaid Sovereign Lord the King, that now is, his Crown and Dignity, and againſt the Form of the Statute in this Caſe made and provided. How ſayſt thou, <hi>Alexander Knightly,</hi> art thou guilty of the High-Treaſon whereof thou ſtands indicted, or not guilty?</p>
+               </sp>
+               <pb n="3" facs="tcp:132379:3"/>
+               <sp>
+                  <speaker>Knightley.</speaker>
+                  <p>Not guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. of Arr.</speaker>
+                  <p>
+                     <hi>Culprit,</hi> how will you be try'd?</p>
+               </sp>
+               <sp>
+                  <speaker>Knightley.</speaker>
+                  <p>By God and my Countrey.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. of Arr.</speaker>
+                  <p>God ſend you a good deliverance.</p>
+               </sp>
+               <sp>
+                  <speaker>Knightley.</speaker>
+                  <p>With ſubmiſſion to your Lordſhip, I did not expect in this weak condition that I am in, to be brought at this time to the Bar; That having taken me off extremely from the application that I ſhould have otherwiſe made of my ſelf to my Defence; but ſeeing there is no Mercy to be had here, I will endeavour to have Patience, and undergo my Fate as well as I can.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Holt.</speaker>
+                  <p>Mr. <hi>Knightley,</hi> you have no reaſon to find fault; for when I was acquainted you were ill, and deſired a Phyſician, I ordered one to be ſent to you; and yeſterday in the Afternoon you ſent word you were ſo ſick that you could not be brought hither to day; but your Doctor was with me laſt night, and upon Diſcourſe with him I did apprehend you were not ſo ill, but that, eſpecially conſidering the weather, you might very ſafely be brought to the Bar to day.</p>
+               </sp>
+               <sp>
+                  <speaker>Knightley.</speaker>
+                  <p>The Gentleman that brought me the Copy of the Indictment found me very ill, and I have been ill ever ſince this day ſevennight.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Holt.</speaker>
+                  <p>Well, now let us ſee what time we ſhall appoint for the Trial.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. Att. Gen.</speaker>
+                  <p>When your Lordſhip pleaſes to appoint.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Holt.</speaker>
+                  <p>I think you cannot try it till <hi>Wedneſday</hi> fortnight.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. Clark.</speaker>
+                  <p>That day is free, my Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Holt.</speaker>
+                  <p>It being upon a <hi>Certiorari,</hi> the <hi>Venire facias</hi> muſt be Return<g ref="char:EOLhyphen"/>able upon a common day; and there muſt be 15 days between the <hi>Teſte</hi> and the Return.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. Att. Gen.</speaker>
+                  <p>May it not be <hi>Tueſday</hi> then, that the Jury appear?</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Holt.</speaker>
+                  <p>You cannot have it before <hi>Wedneſday,</hi> for that is the Re<g ref="char:EOLhyphen"/>turn-day.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. Clark.</speaker>
+                  <p>
+                     <hi>Tueſday</hi> fortnight is appointed for the Trial between <hi>Pride</hi> and the Earl of <hi>Bath.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. Att. Gen.</speaker>
+                  <p>Then it muſt be upon <hi>Wedneſday,</hi> for there muſt be 15 days between the <hi>Teſte</hi> and the Return.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Holt.</speaker>
+                  <p>Well, take back your Priſoner; and bringing him here again on <hi>Wedneſday</hi> fortnight, you ſhall have a Rule for it.</p>
+               </sp>
+               <p>Then the Priſoner was carried back.</p>
+            </div>
+            <div n="20 May 1696" type="day">
+               <opener>
+                  <dateline>
+                     <date>Die Mercurii Viceſimo <hi>Maij, 1696.</hi>
+                     </date> In Banco Regis.</dateline>
+               </opener>
+               <head>Dominus Rex <hi>verſus</hi> Knightley.</head>
+               <p>THis day being appointed for the Trial of the Priſoner, he was brought to <hi>Weſtminſter-Hall,</hi> and the Jury were call'd over as ſoon as the Court appeared in the Hall, and the Defaulters recorded; and about 11 of the Clock the Priſoner was brought to the Bar.</p>
+               <sp>
+                  <speaker>Cl. of the Crown.</speaker>
+                  <p>
+                     <hi>Alexander Knightley,</hi> Hold up thy Hand. <stage>(Which he did)</stage> Thoſe good men that thou ſhalt hear called, and perſonally appear, are to paſs between our Sovereign Lord the King and Thee, upon the Trial of thy Life and Death: If therefore thou wouldſt challenge them, or any of
+<pb n="4" facs="tcp:132379:4"/>them, thy time is to ſpeak unto them as they come to the Book to be ſworn, before they be ſworn.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Holt.</speaker>
+                  <p>Mr. <hi>Knightley,</hi> I perceive you have a Deſire to ſpeak ſomething; let us hear what you have to ſay.</p>
+               </sp>
+               <sp>
+                  <speaker>Knightley.</speaker>
+                  <p>I humbly beg your Lordſhip's leave, that I may ſpeak before the Jury be called. What I have to ſay, I beg I may have your Leave to read, becauſe I have a bad Memory.</p>
+                  <stage>(Reads.)</stage>
+                  <p>MY Lord, I hope to ſave the Jury and the Witneſſes againſt me a great deal of trouble, and deſign to take up very lit<g ref="char:EOLhyphen"/>tle of your Lordſhip's time: But in the firſt place I think my ſelf obliged to Thank your Lordſhip for your great Indulgence, in granting me ſo much time between my Arraignment and Trial; the greateſt part of which I have employ'd to appear before the great Tribunal of Heaven.</p>
+                  <p>I ſpeak in the face of the World here, That I am convinc'd I cannot hope to be happy hereafter, without a juſt Abhorrence of, and a ſincere Repentance for that Crime for which I here ſtand Indicted.</p>
+                  <p>And ſince Confeſſion is an eſſential part of Repentance. I do acknow<g ref="char:EOLhyphen"/>ledge I was to have been concern'd in ſome part of the Barbarous Aſſaſſi<g ref="char:EOLhyphen"/>nation, and was unhappily ſurprized into a Conſent to Act in it, though in my heart I did abominate the Fact as much as any man living; but un<g ref="char:EOLhyphen"/>der ſome Honourable and Fair Pretences I was drawn in at firſt, and then of a ſudden became ſo far engaged, that by a miſtaken Notion of Honour, I thought I could not retreat without the Infamy of Cowardiſe.</p>
+                  <p>My Lord, I humbly crave your Lordſhip's Permiſſion, to acquaint you, how that ſome time ſince I was brought before ſome of the Lords of His Majeſty's moſt Honourable Privy Council, where I do aſſure your Lord<g ref="char:EOLhyphen"/>ſhip I did freely own and fully diſcover my being concerned in that horrid Deſign; and I here openly confeſs the ſame with that Sorrow and Repen<g ref="char:EOLhyphen"/>tance as becomes a man of Honour and Conſcience.</p>
+                  <p>My Lord, There is one Circumſtance particular in my Caſe, I moſt humbly beg leave to inſiſt upon, and urge to your Lordſhip in my behalf, which is, That it was upon my Confeſſion (as I conceive) that Mr. <hi>Har<g ref="char:EOLhyphen"/>ris,</hi> now a principal Evidence againſt me, was firſt diſcovered; ſo that my own Confeſſion has been a great means to take away my Life.</p>
+                  <p>I expect after a few words now in this ſolemn Court to receive from your Lordſhip the Sentence due upon the Conviction, from my own mouth, of a Crime for which I cannot in modeſty hope, ſo much above my De<g ref="char:EOLhyphen"/>ſerts, the King's moſt Gracious Pardon; yet the greatneſs of my Offence does not rob me of all thoughts of Mercy, whilſt I throw my ſelf abſolutely and entirely at His Majeſty's Feet for it; and I humbly beg of your Lord<g ref="char:EOLhyphen"/>ſhip as a Privy Councellor, That you would repreſent my unfortunate Caſe to their Excellencies the Lords Juſtices of <hi>England,</hi> as an Object of His Majeſty's Favour.</p>
+                  <p>And now, my Lord, I ſhall not detain your Lordſhip and the Court any longer, but my next words Convict and lay me under the Juſt Sen<g ref="char:EOLhyphen"/>tence of Death: So to my Indictment I beg leave to plead Guilty, and throw my ſelf entirely upon the King's Mercy, and do deſire my former Plea to my Indictment may be withdrawn.</p>
+               </sp>
+               <pb n="5" facs="tcp:132379:4"/>
+               <sp>
+                  <speaker>Cl. of the Crown.</speaker>
+                  <p>Thou haft been Indicted and Arraigned of High Treaſon, in Compaſſing and Imagining the Death and Deſtruction of the King; how ſayſt thou <hi>Alexander Knightley,</hi> art thou Guilty of the High Treaſon whereof thou ſtandſt Indicted, or Not Guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Knightley.</speaker>
+                  <p>Guilty, my Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. of the Crown.</speaker>
+                  <p>Art thou content to withdraw thy Plea Not Guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Knightley.</speaker>
+                  <p>Yes Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. of the Cr.</speaker>
+                  <p>Do you plead to the Indictment Guilty or Not Guilty?</p>
+               </sp>
+               <sp>
+                  <speaker>Knightley.</speaker>
+                  <p>I am Guilty.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. Att. Gen.</speaker>
+                  <p>Then my Lord we deſire, ſince he relinquiſhes his Plea of Not Guilty, that you will Record his Confeſſion; and ſince he has Confeſt the Indictment, we have nothing more to do but wait the Judg<g ref="char:EOLhyphen"/>ment of the Court.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Holt.</speaker>
+                  <p>We ſhall not give Judgment now.</p>
+               </sp>
+               <sp>
+                  <speaker>Mr. Att. Gen.</speaker>
+                  <p>If the Priſoner have any thing to ſay for himſelf, your Lordſhips I ſuppoſe will hear him to it.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Holt.</speaker>
+                  <p>But I ſay we cannot by the courſe of the Court give Judgment now, for after a perſon is Convicted here, whether by Con<g ref="char:EOLhyphen"/>feſſion or Verdict, he ought to have four days from the time of ſuch Confeſſion or Verdict, to move in Arreſt of Judgment, if there be ſo many days of the Term remaining, if not, then the longeſt time that can be had in the Term is allow'd: In <hi>Staley</hi>'s Caſe it was otherwiſe practiſed, Judgment was given the ſame day, that was in the time of the <hi>Popiſh Plot,</hi> and is a Caſe not to be imitated, becauſe not juſtified by any Preſident before that time or ſince, but it has been always ob<g ref="char:EOLhyphen"/>ſerv'd to have four Juridical days for moving in Arreſt of Judgment, if ſo many remain of the Term.</p>
+               </sp>
+            </div>
+            <div n="25 May 1696" type="day">
+               <opener>
+                  <dateline>
+                     <date>Die Lunae Viceſſimo Quinto Die Maii An. Dom. 1696.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>Being the laſt day of the Term, the Priſoner was brought from</hi> Newgate <hi>to the</hi> Kings-Bench-Bar.</p>
+               <sp>
+                  <speaker>Mr. Att. Gen.</speaker>
+                  <p>If your Lordſhip pleaſe, I deſire the Judgment of the Court to be pronounc'd upon Mr. <hi>Knightley</hi> upon his Conviction.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. of the Crown.</speaker>
+                  <p>
+                     <hi>Alexander Knightley</hi> hold up thy hand; <hi>(which he did)</hi> thou haſt been Indicted and Arraigned for High Treaſon in Compaſſing and Imagining the Death of the King, and adhering to the Kings Ene<g ref="char:EOLhyphen"/>mies; what canſt thou ſay for thy ſelf, why Judgment ſhould not be given againſt thee to dye according to the Law?</p>
+               </sp>
+               <sp>
+                  <speaker>Knightley.</speaker>
+                  <p>I have nothing more to ſay, my Lord, than what I have ſaid.</p>
+               </sp>
+               <sp>
+                  <speaker>Cl. of the Crown.</speaker>
+                  <p>Cryer, make Proclamation for Silence. <stage>Which was done on both ſides the Court.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cryer.</speaker>
+                  <p>O Yez: Our Soveraign Lord the King ſtraitly charges and commands all manner of perſons to keep ſilence while Judgment is in giving, upon pain of Impriſonment.</p>
+               </sp>
+               <sp>
+                  <speaker>L. C. J. Holt.</speaker>
+                  <p>Mr. <hi>Knightly,</hi> You are by your own Con<g ref="char:EOLhyphen"/>feſſion convicted of High Treaſon in deſigning the Mur<g ref="char:EOLhyphen"/>der
+<pb n="6" facs="tcp:132379:5"/>of the King and the Subverſion of the whole State of <hi>England,</hi> in promoting an Invaſion from the <hi>French,</hi> its moſt antient and inveterate Enemies.</p>
+                  <p>It hath appeared before your Arraignment, not only by the Evidence that hath been given at former Trials; but even by the ſigns of the times and the manner of ſome mens actings, that there hath been for ſome years laſt paſt a Train of Plots and Conſpiracies againſt this Go<g ref="char:EOLhyphen"/>vernment, and when the various means which the Con<g ref="char:EOLhyphen"/>ſpirators did project among themſelves for its ruin proved ineffectual, it was at laſt reſolved among ſome of the Conſpirators to aſſaſſinate the King, as the moſt certain way of accompliſhing their end.</p>
+                  <p>In which deſign you were deeply engaged, and was an active inſtrument in the carrying it on, being ſent to view the ground on both ſides the Water, and with others that were ſent with you reported your opinion, which was the moſt convenient place to attack the King and his Guards.</p>
+                  <p>And tho you did the laſt time you were at the Bar, urge by way of extenuation of your crime, that you be<g ref="char:EOLhyphen"/>ing engaged in the Intereſt of the Late King, and thereby ſupported, you was ſurprized into this barbarous deſign, which being propoſed to you, you thought your ſelf ob<g ref="char:EOLhyphen"/>liged in Honour to engage in it; which is ſo far from an extenuation, that it is an high aggravation: For Men of honourable Principles, tho moſt zealouſly diſpoſed to the advancement of any particular Intereſt, yet always deteſt the uſe of baſe and vile means. Therefore when the Aſſaſ<g ref="char:EOLhyphen"/>ſination of the King was propoſed, you had an opportunity to have retreated with Honor, and might have refuſed to be further concerned; but you rather purſued this wicked enterprize with great Zeal.</p>
+                  <p>And tho you are by your Profeſſion a <hi>Roman Catholick,</hi> and may for that reaſon think that your crime is mitiga<g ref="char:EOLhyphen"/>ted, becauſe you acted in the behalf of a Prince of your own Religion, which you hoped thereby to introduce. Notwithanſtding all which, your offence is highly aggra<g ref="char:EOLhyphen"/>vated in reſpect of the ingratitude and folly with which it is attended. For there is no <hi>Engliſh</hi> Papiſt that is Maſter
+<pb n="7" facs="tcp:132379:5"/>of any property, but it is intereſted in the preſervation of this Government, to which the whole Party of them hath been, and ſtill are continually obliged for its Moderation and Juſtice; for inſtead of being expoſed to the Severity of thoſe Laws to which they are obnoxious, they have had the ſame indulgence in the enjoyment of their Religion, and the ſame protection, and as much benefit in the de<g ref="char:EOLhyphen"/>ſtribution of the Common Juſtice of the Realm, as any other of the Kings Subjects; therefore none of them could ever expect to mend their condition under a <hi>French</hi> Do<g ref="char:EOLhyphen"/>mination. But the contrary is foreſeen by all conſidering Men; For the <hi>Engliſh</hi> Papiſt, as well as Proteſtant, would have been reduced to a moſt diſmal ſtare if you had ob<g ref="char:EOLhyphen"/>tained your end.</p>
+                  <p>For it is againſt all the Rules of Reaſon, and the Expe<g ref="char:EOLhyphen"/>rience of all Ages, to imagine, that the <hi>French</hi> King would ſpare <hi>Engliſh</hi> Papiſts more than Proteſtants; for it is not Zeal to Religion, or Affection to the Intereſt of the Late King that hath excited him to invade <hi>England,</hi> but it's his Pride and Ambition to conquer the three Kingdoms, and to reduce this to be a Province to <hi>France:</hi> Indeed the pre<g ref="char:EOLhyphen"/>tence of reſtoring the Late King, and introducing the <hi>Popiſh</hi> Religion, may ſerve to delude ſome warm and un<g ref="char:EOLhyphen"/>wary Zealots to engage in his aſſiſtance, who do not con<g ref="char:EOLhyphen"/>ſider, that if they ſhould be ſucceſsful would be as cer<g ref="char:EOLhyphen"/>tainly deſtroyed as others, but with more diſadvan<g ref="char:EOLhyphen"/>tage to themſelves. For after they ſhall have ſurvived the Liberty of their Country, have embrued their own hands in their Countrymens Blood, they will be at the Mercy of the Conqueror, who can never think it his Intereſt to truſt them, but will deſpiſe them for being ſuch villanous Traitors to their own Country. Nay rather, theſe <hi>Engliſh<g ref="char:EOLhyphen"/>men,</hi> who by their courage and reſolution ſhall endeavour to defend their Country, tho they ſhould be unfortunate<g ref="char:EOLhyphen"/>ly vanquiſhed, will meet with a much better reception, for they will have given aſſurances that they may be con<g ref="char:EOLhyphen"/>fided in, when the others have by ſuch a wicked Treaſon given a demonſtration to the contrary.</p>
+                  <p>There being then nothing to be ſaid that can palliate ſuch a crime as that of which you are convicted; but you
+<pb n="8" facs="tcp:132379:6"/>having taken a different courſe the laſt time you were at the Bar from what you took at firſt, you have relinquiſhed your Plea of No<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Guilty, and have confeſſed the Indict<g ref="char:EOLhyphen"/>ment; I wiſh out of charity to your perſon it was as ſin<g ref="char:EOLhyphen"/>cere as (I think it) it was prudent in you; for after ſeve<g ref="char:EOLhyphen"/>ral Convictions of others that were your Accomplices, you could not be a ſtranger to the Evidence upon which they were grounded, you muſt therefore in all probabi<g ref="char:EOLhyphen"/>lity have expected to have undergone the ſame fate. If your Confeſſion be a real effect of your Repentance, you will reap the advantage of it in the next world, but what confequence it will have in this I cannot ſay, <hi>For the heart of the King is in the hand of the Almighty, which as the Rivers of Water he turneth whitherſoever he will.</hi> Live therefore for the time to come in expectation of a ſpeedy Death, and prepare your ſelf to appear before another Judgment Seat; to the making of which important preparation I ſhall diſmiſs you, firſt diſcharging the Court of the Duty now incumbent upon it, in giving that Judg<g ref="char:EOLhyphen"/>ment which the Law hath appointed. And the Court doth award, <hi>That you be conveyed from hence to</hi> Newgate, <hi>the Pri<g ref="char:EOLhyphen"/>ſon from whence you came, and from thence you are to be drawn upon a Hurdle to</hi> Tyburn; <hi>where you are to be hanged by the Neck and while you are alive to be cut down, your Privy Mem<g ref="char:EOLhyphen"/>bers are to be cut off, and your Bowels to be cut out of your Body and burnt in your view; your head is to be cut off, and your Body is to be divided into four parts, and your Head and your Quarters are to be diſpoſed where his Majeſty ſhall appoint.</hi>
+                  </p>
+                  <p>And I pray God to have mercy upon your Soul.</p>
+               </sp>
+               <sp>
+                  <speaker>Knightley.</speaker>
+                  <p>My Lord, I am truly ſorry for what I have done, and I humbly thank your Lordſhip, and the reſt of the Judges for your favour to me.</p>
+               </sp>
+               <p>
+                  <hi>Then the Priſoner was carried back to</hi> Newgate.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="note">
+            <head>ADVERTISEMENT</head>
+            <p>THE Tryals of <hi>Charnock, King, Keys,</hi> Sir <hi>William Parkins,</hi> Sir <hi>John Freind, Ambroſe Rook<g ref="char:EOLhyphen"/>wood, Cranbourn</hi> and <hi>Lowick,</hi> for the Horrid and Execrable Conſpiracy, for Aſſaſſinating In Sacred Majeſty King <hi>William,</hi> and for encouraging a <hi>French</hi> Invaſion; are all Sold by the Order of the Lord Chief Juſtice <hi>Holt,</hi> for <hi>Samnuel Heyrick</hi> at <hi>Grays-Inn</hi> Gate, <hi>Holbron;</hi> and <hi>Iſaac Cleave,</hi> at <hi>Serjeants-Inn</hi> Gate, <hi>Chancery-lane.</hi>
+            </p>
+            <pb facs="tcp:132379:6" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
